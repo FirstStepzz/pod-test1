@@ -1,0 +1,22 @@
+{
+  "name": "PodTestLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of PodTestLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/FirstStepzz/PodTestLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "FirstStepzz": "zhixiong@inconnecting.com"
+  },
+  "source": {
+    "git": "https://github.com/FirstStepzz/PodTestLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodTestLibrary/Classes/**/*"
+}
